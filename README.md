@@ -30,7 +30,7 @@ Welcome to **Recipe Generator Hub** — an AI-powered Django web app that helps 
 ### 1⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Recipe-Generator-Hub.git
+git clone https://github.com/PratikChakrabortyaz/Recipe-Generator-Hub.git
 cd Recipe-Generator-Hub/recipe_generator
 ```
 
