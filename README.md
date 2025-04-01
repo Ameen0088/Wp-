@@ -10,8 +10,10 @@ Welcome to **Recipe Generator Hub** — an AI-powered Django web app that helps 
 - 📝 **Register & Login** for personalized experience
 - 📜 **View Past Recipes** in your dashboard
 - ➕ **Create Your Own Recipes**
+- 📚 **Explore Standard Recipes** by cuisine & meal type (e.g., Continental Dinner, Asian Breakfast, etc.)
 - 🤖 **AI Recipe Generator** interface
 - 🧼 Clean UI/UX with modern components
+
 
 ---
 
